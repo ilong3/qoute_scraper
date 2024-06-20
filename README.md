@@ -24,6 +24,8 @@ cd quote-scraper
 
 ```
 
+## Scripts
+
 ```
 
 import puppeteer from "puppeteer";
